@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning NextJS, NestJS<br>🎯 Goals: <br>Short-term:<br>- Master Next.js for creating optimized, server-rendered React applications.<br>    - Reinforce full-stack capabilities by integrating front-end projects with backend components.<br>    - Start learning backend development with NestJS to understand API creation and server logic.<br>Long-term:<br>- Achieve proficiency in full-stack development by building and deploying complete applications.<br>    - Develop expertise in deploying applications on **AWS** and **Azure** with a focus on scalability and best practices in cloud services.<br>    - Contribute to open-source full-stack projects to solidify and expand my knowledge.</p>
+<p align="left">📚 I'm currently learning NextJS, NestJS<br>🎯 Goals: <br>Short-term:<br>- Master Next.js for creating optimized, server-rendered React applications.<br>    - Reinforce full-stack capabilities by integrating front-end projects with backend components.<br>    - Start learning backend development with NestJS to understand API creation and server logic.<br>Long-term:<br>- Achieve proficiency in full-stack development by building and deploying complete applications.<br>    - Develop expertise in deploying applications on AWS and Azure with a focus on scalability and best practices in cloud services.<br>    - Contribute to open-source full-stack projects to solidify and expand my knowledge.</p>
 
 ###
 
