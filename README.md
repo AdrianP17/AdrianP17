@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Software Engineer Student and Frontend Developer</p>
+<p align="left">I'm a Software Engineer and Frontend Developer</p>
 
 ###
 
