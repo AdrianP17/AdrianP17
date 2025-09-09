@@ -61,6 +61,6 @@
 
 ###
 
-<p align="left">- 📍 I’m based in Lima, Peru<br>- 🌍 I speak spanish and english (B1)<br>- 🎨 In my free time, I enjoy playing guitar and videogames.</p>
+<p align="left">- 📍 I’m based in Lima, Peru<br>- 🌍 I speak spanish and english (B2)<br>- 🎨 In my free time, I enjoy playing guitar and videogames.</p>
 
 ###
